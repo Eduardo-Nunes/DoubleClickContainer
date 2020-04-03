@@ -1,0 +1,9 @@
+<resources>
+    <declare-styleable name="DoubleClickContainer">
+        <attr name="orientation" format="enum">
+            <enum name="left" value="0" />
+            <enum name="right" value="1" />
+            <enum name="none" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>
